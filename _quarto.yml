@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "The Societal Defence Lab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - About.qmd  
+      - Team.qmd
+      - Research.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+

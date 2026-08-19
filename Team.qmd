@@ -1,0 +1,66 @@
+---
+title: "Team"
+---
+
+## Director
+
+::: {.columns}
+
+::: {.column width="25%"}
+![](images/Team/jc-boucher.jpg){fig-alt="Jean-Christophe Boucher"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+### Jean-Christophe Boucher
+
+Jean-Christophe Boucher is an Associate Professor at the Department of Political Science at the University of Calgary. His current work focuses on applying machine learning to understand how the digital world shapes society, particularly in the context of foreign information manipulation and interference. He is a Fulbright Scholar and manages projects funded by the Social Sciences and Humanities Research Council (SSHRC) and the Department of National Defence. In 2025, he served as Deputy Director - Data Science within the Rapid Response Mechanism (RRM) at Global Affairs Canada. He specializes in international relations, with a focus on foreign policy, global security, and data analytics.
+ 
+Jean-Christophe Boucher est professeur associé au département de sciences politiques de l'université de Calgary. Ses travaux actuels portent sur l’application de l’apprentissage automatique pour comprendre comment le monde numérique façonne la société, notamment en ce qui concerne la manipulation de l’information et l’interférence étrangère. Il est titulaire d'une bourse Fulbright et est actuellement responsable de projets financés par le Conseil de recherches en sciences humaines (CRSH) et la défense nationale. En 2025, il a occupé le poste de directeur adjoint – Science des données au sein du Mécanisme de réponse rapide (RRM) d'Affaires mondiales Canada. Il est spécialisé dans l'analyse de la politique étrangère, la sécurité internationale et l'analyse de données.
+:::
+
+:::
+
+## Research Team Leads
+
+::: {.columns}
+
+::: {.column width="25%"}
+![](images/Team/israa-farouk.png){fig-alt="Israa Farouk"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+### Israa Farouk
+
+Israa Farouk is the Team Lead on Computer Science, bringing her expertise in data science and analytics to support the group's research. She earned her Master's degree in Data Science and Analytics from the University of Calgary, where her work focused on applying statistical and machine learning techniques to complex datasets.
+
+Israa supports evidence-based research by applying data analysis and visualization techniques to inform policy development. She is passionate about using innovative analytical approaches to promote sustainable practices and inform evidence-based decision-making.
+:::
+
+:::
+
+::: {.columns}
+
+::: {.column width="25%"}
+![](images/Team/david-dube.jpg){fig-alt="David Dubé"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+### David Dubé
+
+David Dubé is a PhD Candidate in Political Science at McGill University and the Research Team Lead for the Information Security and Influence Team, which he joined in October 2022. His research examines how state actors exploit digital information ecosystems to promote strategic narratives, influence political interpretation, and contest international order. This work is especially concerned with the measurement and detection of misinformation, foreign influence, and inauthentic or synthetic content across digital platforms.
+
+Through past experience as a Senior Data Analyst with Global Affairs Canada's Rapid Response Mechanism, David leads applied research and analytical work on foreign information manipulation targeting Canada and its allies. Methodologically, he combines qualitative, quantitative, and computational approaches, including natural language processing, machine learning, and large-scale text analysis, applied to comparative political economy and the study of disinformation strategies employed by authoritarian and great-power states.
+
+David holds a Master's degree in Political Science and International Relations from the University of Quebec at Montréal, where he wrote his thesis on the construction of Russia's revanchist identity and the annexation of Crimea.
+:::
+
+:::

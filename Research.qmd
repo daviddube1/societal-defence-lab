@@ -1,0 +1,34 @@
+---
+title: "Research"
+format: html
+---
+
+Our research team produces multidisciplinary research at the intersection of political science, international relations, computer science, and public policy. We pursue both substantive and methodologically driven questions that are grounded in real-world policy and public issues, aiming to inform academic and practitioner audiences alike.
+
+## Publications
+
+### Articles
+
+1.  (Forthcoming) Zheng, K., Boucher, J.-C., Dubé, D., & Farouk, I. "Taiwan-China Relations Coverage in Canadian Media." *International Journal*.
+
+2.  (Revise and Resubmit) Boucher, J.-C., & Farouk, I. "Russia's Narrative Dominance Beyond the West: Constructing an Alternative Information Order."
+
+3.  Boucher, J.-C., Duval-Lantoine, C., Gouliquer, L., & Saideman, S. M. (2026). Mistrusted to Serve? Discrimination in the Military and Its Impact on Public Support. *Armed Forces & Society*. https://doi.org/10.1177/0095327X261437281
+
+4.  Vors, L., Farouk, I., Delon, P., Raboisson, D., Boucher, J.-C., & Lhermie, G. (2026). Health Information Dynamics and Audience Responses to Avian Influenza on YouTube: Implications for Digital Public Health Communication. *PNAS Nexus*, 5(6), pgag209. https://doi.org/10.1093/pnasnexus/pgag209
+
+5.  Boucher, J.-C., Rutherglen, L., & Kim, S. Y. (2024). Transnationalism and Populist Networks in a Digital Era: Canada and the Freedom Convoy. *International Studies Quarterly*, 68(4), sqae131. https://doi.org/10.1093/isq/sqae131
+
+6.  Jessiman-Perreault, G., Boucher, J.-C., Kim, S. Y., Frenette, N., Badami, A., Smith, H. M., & Allen Scott, L. K. (2024). The Role of Scientific Research in Human Papillomavirus Vaccine Discussions on Twitter: Social Network Analysis. *JMIR Infodemiology*, 4, e50551. https://doi.org/10.2196/50551
+
+### Book Chapters
+
+1.  (Forthcoming),Dey, L., Anzum, F., Charles-Rodriguez, U., Bari, A. S. M. H., Boucher, J.-C., Bharwani, A., & Gavrilova, M. L. Exploring Public Trust Through LLM-Driven Opinion Mining. *In Computer Information Systems and Industrial Management*.
+
+2.  Boucher, J.-C., & Thies, C. G. (2024). Nativism, Economic Nationalism, and Populism in US Foreign Policy. In A. Chryssogelos, E. Tanner Hawkins, K. A. Hawkins, L. Littvay, & N. Wiesehomeier (Eds.), *The Ideational Approach to Populism, Volume II: Consequences and Mitigation*. Routledge. https://doi.org/10.4324/9781003489993-14
+
+3.  Boucher, J.-C. (2024). Public Opinion, News, Digital Media, and Foreign Policy. In J. Kaarbo & C. G. Thies (Eds.), *The Oxford Handbook of Foreign Policy Analysis*. Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198843061.013.14
+
+### Non-Refereed Publications
+
+1.  Boucher, J., Edwards, J., Kim, J., Badami, A., & Smith, H. (2022). Disinformation and Russia-Ukrainian War on Canadian Social Media. *The School of Public Policy Publications*, 15(1). https://doi.org/10.55016/ojs/sppp.v15i1.75449

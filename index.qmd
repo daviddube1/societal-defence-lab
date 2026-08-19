@@ -1,0 +1,80 @@
+---
+title: "The Societal Defence Lab"
+---
+
+```{=html}
+<style>
+h1.title {
+  text-align: center;
+}
+</style>
+```
+
+::: {style="width: 100%; height: 180px; overflow: hidden;"}
+![](images/nastya-dulhiier-OKOOGO578eo-unsplash.jpg){style="width: 100%; height: 100%; object-fit: cover; object-position: center 80%;"}
+:::
+
+::: {style="text-align: justify;"}
+The Societal Defence Lab conducts research on total defence, examining the societal foundations that sustain national defence and the hybrid campaigns that target them. Combining survey experimentation on civil-military relations and public trust in the armed forces with computational analysis of foreign information manipulation, the Lab produces evidence on how democratic societies absorb coercive pressure below the threshold of armed conflict.
+
+#### What We Do
+
+Our research is organized around two complementary teams, united by a shared interest in how public trust underpins — and is targeted to undermine — national defence.
+
+**Information Security and Influence Team**\
+This team examines hybrid conflict and foreign information manipulation, building the Lab's own AI systems to do so. Our engineering team develops multilingual analysis pipelines, custom classification and detection models, and measurement infrastructure capable of operating at scale across global information environments, functioning as much as a development shop as a research group, since these questions cannot be answered with off-the-shelf tooling.
+
+**Defense and Foreign Policy Team**\
+This team examines civil-military relations and public trust in the armed forces, since consent, legitimacy, and effective civilian oversight determine whether defence institutions can act at all. Through survey and survey-experimental research, they measure how societies understand and support their defence institutions across Canada, the United States, Europe, and Atlantic alliance partners.
+
+#### Funding
+
+Our work is supported by the Social Sciences and Humanities Research Council of Canada (SSHRC) and the Department of National Defence's Mobilizing Insights in Defence and Security (MINDS) program.
+
+- **2026** — SSHRC Partnership Grant (Talent) – 3CE
+- **2026** — SSHRC Partnership Grant – Civil-Military Relations Network
+- **2026** — Agence Nationale de la Recherche – France
+- **2025** — Department of National Defence – MINDS Network Grant
+- **2025** — SSHRC Insight Grant – Far-Left Media Ecosystems
+- **2023** — SSHRC Insight Grant – Swing State and World Politics
+
+#### Impact
+
+We produce research that advances the discipline theoretically and methodologically, while contributing directly to Canadian and global dialogue on information threats, security, and defence. Our findings inform both academic debate and policy practice, with work published in *International Studies Quarterly*, the *International Journal*, *PNAS Nexus*, *Armed Forces and Society*, *The Journal of Intelligence, Conflict and Warfare*, the *Journal of Medical Internet Research*, *BMC Public Health* and *The Oxford Handbook of Foreign Policy.*
+
+#### Leadership
+
+The network is directed by **Jean-Christophe Boucher** of the University of Calgary.
+:::
+
+```{=html}
+<div style="display: flex; justify-content: center; gap: 2rem; margin: 2rem 0; flex-wrap: wrap;">
+<a href="Team.qmd" style="text-decoration: none; color: inherit;">
+<div style="width: 220px; height: 220px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; border: 1px solid #ddd; border-radius: 10px; padding: 1.5rem; box-shadow: 0 2px 6px rgba(0,0,0,0.08); transition: box-shadow 0.2s ease;">
+<span style="font-size: 2rem;">👥</span>
+<strong>Our Team</strong>
+<span>Meet the researchers behind CSDD-RG</span>
+</div>
+</a>
+<a href="Research.qmd" style="text-decoration: none; color: inherit;">
+<div style="width: 220px; height: 220px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; border: 1px solid #ddd; border-radius: 10px; padding: 1.5rem; box-shadow: 0 2px 6px rgba(0,0,0,0.08); transition: box-shadow 0.2s ease;">
+<span style="font-size: 2rem;">📚</span>
+<strong>Our Publications</strong>
+<span>Explore our research output</span>
+</div>
+</a>
+<a href="#our-mission" style="text-decoration: none; color: inherit;">
+<div style="width: 220px; height: 220px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; border: 1px solid #ddd; border-radius: 10px; padding: 1.5rem; box-shadow: 0 2px 6px rgba(0,0,0,0.08); transition: box-shadow 0.2s ease;">
+<span style="font-size: 2rem;">🎯</span>
+<strong>Our Mission</strong>
+<span>What drives our research</span>
+</div>
+</a>
+</div>
+```
+
+------------------------------------------------------------------------
+
+::: {style="display: flex; justify-content: center; align-items: center; gap: 3rem;"}
+![](images/sshrc-fip-full-color-eng.png){fig-alt="Social Sciences and Humanities Research Council of Canada logo" width="200px"} ![](images/minds-banner-1183x259-en.jpg){fig-alt="MINDS logo" width="200px"}
+:::

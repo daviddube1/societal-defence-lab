@@ -1,0 +1,42 @@
+---
+title: "About"
+---
+
+```{=html}
+<style>
+h1.title {
+  text-align: center;
+}
+</style>
+```
+
+::: {style="max-width: 800px; margin: 0 auto; text-align: center;"}
+![](images/Downtown_Calgary_2020-4.jpg){fig-alt="View of Calgary, Alberta" width="700px"}
+
+The Societal Defence Lab is a research group based at the University of Calgary that studies total defence: the proposition that a society's capacity to resist coercion rests on the whole of that society rather than on its armed forces alone. We examine the civilian foundations of national defence and the adversarial campaigns designed to erode them, combining computational text analysis, survey research, and experimental methods to study questions spanning civil-military relations, public trust in defence institutions, hybrid conflict, and foreign information manipulation.
+
+#### Our Mission
+
+The Lab is committed to multidisciplinary research that bridges political science, security studies, and computer science to address the most pressing defence and information security challenges facing Canada and its allies. We treat public trust as a defence capability in its own right — one that must be studied, measured, and defended with the same rigor applied to military capability. This means building our own AI systems and measurement infrastructure where existing tools fall short, alongside survey and experimental research on how societies understand and support their defence institutions.
+
+We believe academic knowledge must engage beyond the university. The Lab actively takes part in academic and policy debates, interacts with civil society and government partners, and is committed to bridging the gap between academic research and public understanding — ensuring our findings are accessible and useful to the communities they concern.
+:::
+
+```{=html}
+<div style="display: flex; justify-content: center; gap: 2rem; margin: 2rem 0; flex-wrap: wrap;">
+<a href="Team.qmd" style="text-decoration: none; color: inherit;">
+<div style="width: 220px; height: 220px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; border: 1px solid #ddd; border-radius: 10px; padding: 1.5rem; box-shadow: 0 2px 6px rgba(0,0,0,0.08); transition: box-shadow 0.2s ease;">
+<span style="font-size: 2rem;">👥</span>
+<strong>Our Team</strong>
+<span>Meet the researchers behind the team</span>
+</div>
+</a>
+<a href="Research.qmd" style="text-decoration: none; color: inherit;">
+<div style="width: 220px; height: 220px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; border: 1px solid #ddd; border-radius: 10px; padding: 1.5rem; box-shadow: 0 2px 6px rgba(0,0,0,0.08); transition: box-shadow 0.2s ease;">
+<span style="font-size: 2rem;">📚</span>
+<strong>Our Publications</strong>
+<span>Explore our research output</span>
+</div>
+</a>
+</div>
+```
