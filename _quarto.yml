@@ -10,6 +10,7 @@ website:
       - About.qmd  
       - Team.qmd
       - Research.qmd
+      - Contact.qmd
 
 format:
   html:
