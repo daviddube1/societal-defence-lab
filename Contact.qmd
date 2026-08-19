@@ -9,7 +9,7 @@ format: html
 
 For media or research inquiries, please send us a message below and we'll get back to you as soon as possible. Thanks!
 
-<form action="https://formspree.io/f/xxxxxxxx" method="POST" class="contact-form">
+<form action="https://formspree.io/f/xnpaldeq" method="POST" class="contact-form">
   <label for="subject">Subject</label>
   <input type="text" id="subject" name="subject" placeholder="What is this about?" required>
 
