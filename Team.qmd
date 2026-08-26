@@ -110,6 +110,8 @@ Beyond research, Garima is extensively involved in campus leadership and media. 
 ::: {.column width="70%"}
 ### Ethan Boyda
 
-Ethan Boyda is a PhD student at the University of Calgary, with a focus on public finance and Canadian provincial politics. He is also interested in quantitative research methods and affective polarization. He is currently involved in survey research examining trust in the military across Canada and other NATO countries.
+Ethan Boyda is a PhD student at the University of Calgary, with a focus on public finance and Canadian provincial politics. His research aims to understand the links between party politics and public policy in the Canadian provinces. Drawing on the party systems, economics, and public administration literatures, he develops theories linking levels of party competition and government ideology to government spending across Canada. His doctoral thesis will expand to integrate elements such as electoral and business cycles, ethnic fractionalization, provincial disaggregation, and internal trade barriers to build a more complete theory of provincial fiscal policy.
+
+He is also interested in quantitative research methods and affective polarization, and is currently involved in survey research examining trust in the military across Canada and other NATO countries.
 :::
 ::::::
