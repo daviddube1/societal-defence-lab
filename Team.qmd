@@ -101,15 +101,15 @@ Beyond research, Garima is extensively involved in campus leadership and media. 
 
 :::::: columns
 ::: {.column width="25%"}
-![](images/Team/PLACEHOLDER.jpg){fig-alt="Team Member Name"}
+![](images/Team/IMG_9014.jpg){fig-alt="Ethan Boyda"}
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="70%"}
-### Team Member Name
+### Ethan Boyda
 
-Bio goes here.
+Ethan Boyda is a PhD student at the University of Calgary, with a focus on public finance and Canadian provincial politics. He is also interested in quantitative research methods and affective polarization. He is currently involved in survey research examining trust in the military across Canada and other NATO countries.
 :::
 ::::::
