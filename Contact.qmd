@@ -3,27 +3,33 @@ title: "Contact"
 format: html
 ---
 
-<div class="contact-section">
-
+::: contact-section
 ## Get in touch with us!
 
 For media or research inquiries, please send us a message below and we'll get back to you as soon as possible. Thanks!
 
 <form action="https://formspree.io/f/xnpaldeq" method="POST" class="contact-form">
-  <label for="subject">Subject</label>
-  <input type="text" id="subject" name="subject" placeholder="What is this about?" required>
 
-  <label for="email">Your email</label>
-  <input type="email" id="email" name="_replyto" placeholder="you@example.com" required>
+<label for="subject">Subject</label> <input type="text" id="subject" name="subject" placeholder="What is this about?" required>
 
-  <label for="message">Message</label>
-  <textarea id="message" name="message" rows="6" placeholder="Write your message here..." required></textarea>
+<label for="email">Your email</label> <input type="email" id="email" name="_replyto" placeholder="you@example.com" required>
 
-  <button type="submit">Send message</button>
+<label for="message">Message</label>
+
+```{=html}
+<textarea id="message" name="message" rows="6" placeholder="Write your message here..." required></textarea>
+```
+
+<button type="submit">
+
+Send message
+
+</button>
+
 </form>
+:::
 
-</div>
-
+```{=html}
 <style>
 .contact-form {
   max-width: 500px;
@@ -70,3 +76,4 @@ For media or research inquiries, please send us a message below and we'll get ba
   background-color: #1a252f;
 }
 </style>
+```
