@@ -1,6 +1,6 @@
 project:
   type: website
-
+  output-dir: docs
 website:
   title: "The Societal Defence Lab"
   navbar:
@@ -11,12 +11,10 @@ website:
       - Team.qmd
       - Research.qmd
       - Contact.qmd
-
 format:
   html:
     theme: flatly
     css: styles.css
     toc: true
-
 editor: visual
 
